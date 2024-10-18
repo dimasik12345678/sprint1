@@ -1,8 +1,4 @@
 # Проект виртуальной стажировки онлайн-школы Skillfactory
-## Документация
-### Проект опубликован на хостинге amvera.ru
-
-https://mountainpass-aleksey-kerkin.amvera.io/
 
 ### Документация сгенерирована с помощью пакета drf-spectacular
 
